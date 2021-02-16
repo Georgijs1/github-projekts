@@ -6,4 +6,7 @@
 -  [x] Lokālie Git faili uzstāti uz GitHub krātuves
 -  [x] Papildinātas GitHub krātuves saturs iegūsts lokālai lietošanai 
 -  [x] Jauna zara izveide GitHub
--  [ ] Jaunizveidotā zara iegūšana lokālai lietošanai
+-  [x] Jaunizveidotā zara iegūšana lokālai lietošanai
+-  [ ] Lokālā Git satura papildināšana
+-  [ ] Lokālā Git satura atkārtota izvietošana GitHub krātuvē
+
