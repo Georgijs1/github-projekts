@@ -10,4 +10,4 @@
 -  [ ] Lokālā Git satura papildināšana
 -  [ ] Lokālā Git satura atkārtota izvietošana GitHub krātuvē
 
-![](images/pizza.png)
+![](images/pizza.jpg)
